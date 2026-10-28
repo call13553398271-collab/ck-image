@@ -1,0 +1,5 @@
+interface:
+  display_name: "ck-image"
+  short_description: "离线批量生成多格式正常、边界和异常图片，用于软件导入与预览测试"
+policy:
+  allow_implicit_invocation: false
